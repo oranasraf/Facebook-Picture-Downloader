@@ -10,16 +10,16 @@ I created this little script that automaticly download tagged photos.
 
 # How to use?
 
-### Head to tagged photos page
+### 1. Head to tagged photos page
 Usually it will be under this url:
 https://www.facebook.com/{USERNAME}/photos_of
 
-### Open the developer tools (F12)
+### 2. Open the developer tools (F12)
 
-### Add jQuery to the window
+### 3. Add jQuery to the window
 The script utilize jQuery so in order to it to work you'll need to add jQuery functionality to the window you're in.
 You can do so by heading to one of jQuery CDN, copy the text & paste it inside the console.
 
-### Copy & Paste the script from the main JS file in the repository
+### 4. Copy & Paste the script from the main JS file in the repository
 Like you did with jQuery, just copy the script from the main JS file in this repository and it will start downloading
 your entire photos you're tagged in.
